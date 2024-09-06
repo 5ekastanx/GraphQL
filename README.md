@@ -1,4 +1,4 @@
-<div><h1 style="text-align: center;">GraphQL Project 🐬</h1>
+<div style="text-align: center;"><h1 style="text-align: center;">GraphQL Project 🐬</h1></div>
 
 ## О проекте
 
@@ -40,4 +40,3 @@ query GetUser($id: ID!) {
     id
   }
 }
-</div>
