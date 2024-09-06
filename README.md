@@ -1,4 +1,4 @@
-# GraphQL Project 🐬
+#                        GraphQL Project 🐬
 
 ## О проекте
 
@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/твой_никнейм/имя_репозитория.git
+git clone https://github.com/5ekastanx/GraphQL.git
 ```
 2. Установите зависимости:
 ```bash
@@ -26,7 +26,7 @@ python manage.py runserver
 ## Примеры запросов GraphQL
 ### Получение всех пользователей:
 {
-  allUsers {
+  users {
     id
     username
     email
