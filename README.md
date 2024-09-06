@@ -1,4 +1,4 @@
-#                        GraphQL Project 🐬
+<h1 style="text-align: center;">GraphQL Project 🐬</h1>
 
 ## О проекте
 
